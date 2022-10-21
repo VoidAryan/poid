@@ -10,7 +10,7 @@ ALIVE_TEXT = """ **ᴠᴏɪᴅ ꜱᴀᴍᴀ**
 ۞ **ᴜᴘᴛɪᴍᴇ :** {}
 
 ━━━━━━━━━━━━━━━━━━━
-**My Domain @VoidxNetwork**
+**My Domain : [【V๏ɪ፝֟𝔡】Network**
 """
 
-NEKO = "https://telegra.ph/file/ab6b1f13355fc773f4d31.jpg"
+NEKO = "https://telegra.ph/file/2ffa8dc3556f5d62e645a.mp4"
