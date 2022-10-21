@@ -37,4 +37,4 @@ if __name__ == "__main__":
     neko.start()
     bot.run()
     with bot:
-        bot.send_message(f"{LOG_GROUP_ID}", "Nyaa Neko Ready Boi!")
+        bot.send_message(f"{LOG_GROUP_ID}", "Emptiness Inside My Heart...Has Risen Once Again 🥀")
